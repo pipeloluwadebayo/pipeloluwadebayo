@@ -10,7 +10,7 @@ I'm a Cloud support engineer currently supporting Microsoft Azure resources at [
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently self-learning Reactjs.
+- 🌱 I’m currently learning Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, DevOps, or Web Developer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1HjP-co79Wx_R9BQIVJ3fI0pBajhepKPnoO4LxHVy8JQ/edit?usp=sharing) and contact me by emailing pipeloluwa.adebayo@gmail.com.
