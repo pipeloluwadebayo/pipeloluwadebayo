@@ -27,7 +27,7 @@ In addition to my passion for cloud computing, I'm also a web developer with a l
 - 😊 Pronouns: She/her
 - 🌱 I’m currently learning Site reliability engineering.
 - 💼 Job interests: Cloud Engineer, DevOps, Cloud support.
-- 📫 You can [view my resume]([[https://docs.google.com/document/d/1HjP-co79Wx_R9BQIVJ3fI0pBajhepKPnoO4LxHVy8JQ/edit?usp=sharing](https://drive.google.com/file/d/1mfiAs64T1VWa0GN_w-VK87XlnPS0EwMq/view?usp=sharing)](https://drive.google.com/file/d/1mfiAs64T1VWa0GN_w-VK87XlnPS0EwMq/view?usp=sharing)) and contact me by emailing pipeloluwa.adebayo@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1mfiAs64T1VWa0GN_w-VK87XlnPS0EwMq/view?usp=sharing) and contact me by emailing pipeloluwa.adebayo@gmail.com.
 
 ---
 
