@@ -7,17 +7,17 @@
 I'm a Cloud support engineer currently supporting Microsoft Azure resources at [Tek Experts](https://www.tek-experts.com/) on behalf of Microsoft. 
 I support the following services
 
-- App Service Availability and Performance
-- App Service Configuration and Management
-- App Service Authentication
-- App Service Networking
-- App Service Domains and DNS 
-- App Service Certificates
+- Azure Container Apps
+- Web App for Containers
+- Availability and Performance
+- Configuration and Management
+- Authentication
+- Networking
+- Domains and DNS 
+- Certificates
 - App Service on Linux
 - App Service Environments(ASE)
 - Azure Function App
-- Azure Container Apps
-- Web App for Containers
 - Static Web Apps
 
 In addition to my passion for cloud computing, I'm also a web developer with a love for building beautiful and functional websites.
