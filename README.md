@@ -2,7 +2,7 @@
 
 
 
- [![Website Badge](https://img.shields.io/badge/-pipeloluwadebayo.netlify.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pipeloluwadebayo.netlify.app)](https://pipeloluwadebayo.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-pipeloluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pipeloluwa)](https://www.linkedin.com/in/pipeloluwa) [![Twitter Badge](https://img.shields.io/badge/-@thatraregem-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/thatraregem)
+ [![Linkedin Badge](https://img.shields.io/badge/-pipeloluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pipeloluwa)](https://www.linkedin.com/in/pipeloluwa) [![Twitter Badge](https://img.shields.io/badge/-@thatraregem-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/thatraregem)
 
 I'm a Cloud support engineer currently supporting Microsoft Azure resources at [Tek Experts](https://www.tek-experts.com/) on behalf of Microsoft. 
 I support the following services
