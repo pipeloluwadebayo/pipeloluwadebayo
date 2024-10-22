@@ -2,31 +2,15 @@
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-pipeloluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pipeloluwa)](https://www.linkedin.com/in/pipeloluwa) [![Twitter Badge](https://img.shields.io/badge/-@thatraregem-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/thatraregem)
+ [![Linkedin Badge](https://img.shields.io/badge/-pipeloluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praiseadebayo)](https://www.linkedin.com/in/praiseadebayo) [![Twitter Badge](https://img.shields.io/badge/-@thatraregem-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/thatraregem)
 
-I'm a Cloud support engineer currently supporting Microsoft Azure resources at [Tek Experts](https://www.tek-experts.com/) on behalf of Microsoft. 
-I support the following services
-
-- Azure Container Apps
-- Web App for Containers
-- Availability and Performance
-- Configuration and Management
-- Authentication
-- Networking
-- Domains and DNS 
-- Certificates
-- App Service on Linux
-- App Service Environments(ASE)
-- Azure Function App
-- Static Web Apps
-
-In addition to my passion for cloud computing, I'm also a web developer with a love for building beautiful and functional websites.
+I'm a Cloud Engineer with 4 yeares experience working with cloud technologies, building scalable and reliable systems on various cloud platforms and managing the reliability of these systems.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 🌱 I’m currently learning Site reliability engineering.
-- 💼 Job interests: Cloud Engineer, Technical support, Cybersecurity
+- 🌱 I’m currently studying for my cka exam.
+- 💼 Job interests: Cloud Engineer, Site Reliability Engineer
 - 📫 You can contact me by emailing praise.padebayo@gmail.com.
 
 ---
