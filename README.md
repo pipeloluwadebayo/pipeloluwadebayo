@@ -9,7 +9,7 @@ I'm a Cloud and DevOps Engineer with 4 yeares experience working with cloud tech
 - 😊 Pronouns: She/her
 - 🌱 I’m currently studying for the certified kubernetes administrator (CKA) exam.
 - 💼 Job interests: Cloud Engineer, Site Reliability Engineer, Systems Engineer
-- 📫 You can contact me by emailing pipeloluwa.adebayo@gmail.com.
+- 📫 You can contact me by emailing pipeloluwapraise@gmail.com.
 [Featured](https://work-up.netlify.app/)
 ---
 
