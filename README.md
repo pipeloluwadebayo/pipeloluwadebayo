@@ -2,7 +2,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-pipeloluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praiseadebayo)](https://www.linkedin.com/in/praiseadebayo) 
 
- # [Featured](https://work-up.netlify.app/)
+ # [Here is a fun website page i built](https://work-up.netlify.app/)
 
 I'm a Cloud and DevOps Engineer with 6+ yeares experience working with cloud technologies, building and managing scalable and reliable systems on various cloud platforms. This includes designing and deploying highly available architecture, using multi-region deployments, availability zones, periodic backups and  performinglarge-scale cloud migrations. As well as implementing scalable CI/CD pipelines with  Gitlab CI, Azure Devops and Github actions, implementing devsecops practices  by integrating static and software testing tools(sonarqube, trivy, chekov) in deployment pipelines, network segmentation, and applying zero trust principles through identity-based access.
 
