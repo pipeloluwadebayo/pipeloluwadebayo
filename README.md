@@ -27,8 +27,6 @@ I'm a Cloud and DevOps Engineer with 6+ yeares experience working with cloud tec
 - **`EAC`**: Policy-as-code, Dashboards-as-code, Alerts-as-code
 
 ---
-#### Website Projects
-[Projects](https://pipeloluwadebayo.netlify.app/projects)
 
 #### Key Achievements
 - Cloud Provisioning: Bootstrapped new cloud environments on Azure, AWS and GCP using terraform, reducing security concerns and improving infrastructure.
