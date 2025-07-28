@@ -2,7 +2,9 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-pipeloluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praiseadebayo)](https://www.linkedin.com/in/praiseadebayo) 
 
-I'm a Cloud and DevOps Engineer with 4 yeares experience working with cloud technologies, building scalable and reliable systems on various cloud platforms and managing the reliability of these systems. Including site reliability processes,  DevOps methodologies and Agile project management to streamline development processes and ensure seamless application deploymen
+ # [Featured](https://work-up.netlify.app/)
+
+I'm a Cloud and DevOps Engineer with 6+ yeares experience working with cloud technologies, building and managing scalable and reliable systems on various cloud platforms. This includes designing and deploying highly available architecture, using multi-region deployments, availability zones, periodic backups and  performinglarge-scale cloud migrations. As well as implementing scalable CI/CD pipelines with  Gitlab CI, Azure Devops and Github actions, implementing devsecops practices  by integrating static and software testing tools(sonarqube, trivy, chekov) in deployment pipelines, network segmentation, and applying zero trust principles through identity-based access.
 
 **Here's a quick summary about me**:
 
@@ -10,7 +12,6 @@ I'm a Cloud and DevOps Engineer with 4 yeares experience working with cloud tech
 - 🌱 I’m currently studying for the certified kubernetes administrator (CKA) exam.
 - 💼 Job interests: Cloud Engineer, Site Reliability Engineer, Systems Engineer
 - 📫 You can contact me by emailing pipeloluwapraise@gmail.com.
-[Featured](https://work-up.netlify.app/)
 ---
 
 #### Skills
@@ -30,10 +31,10 @@ I'm a Cloud and DevOps Engineer with 4 yeares experience working with cloud tech
 [Projects](https://pipeloluwadebayo.netlify.app/projects)
 
 #### Key Achievements
-Cloud Provisioning: Bootstrapped new cloud environments on Azure, AWS and GCP using terraform, reducing security concerns and improving infrastructure.
-Automation: Designed and implemented automated CI/CD pipelines, reducing deployment time by 30% and improving release reliability.
-Cost Reduction: Leveraged IaC tools to streamline cloud resource management, cutting infrastructure costs by 20%.
-Observability: Spearheaded improved monitoring and observability by optimizing alert queries and conditions to reduce noisy alerts and ensure early detections. Number of alerts decreased by 45% in 3 months.
+- Cloud Provisioning: Bootstrapped new cloud environments on Azure, AWS and GCP using terraform, reducing security concerns and improving infrastructure.
+- Automation: Designed and implemented automated CI/CD pipelines, reducing deployment time by 30% and improving release reliability.
+- Cost Reduction: Cut infrastructure costs by 20% using resource right-sizing, reserved instances and auto cleanup of unused resources
+- Observability: Spearheaded improved monitoring and observability by optimizing SLIs/SLOs, alert queries and conditions to reduce noisy alerts and ensure early detections. Number of alerts decreased by 45% in 3 months.
 
 
 
